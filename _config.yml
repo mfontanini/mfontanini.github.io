@@ -1,0 +1,6 @@
+title: Average Coder
+description: Random programming and networking stuff
+github_username: mfontanini
+paginate: 5
+gems: [jekyll-paginate, kramdown]
+markdown: kramdown
