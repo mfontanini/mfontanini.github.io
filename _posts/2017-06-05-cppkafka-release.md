@@ -26,10 +26,6 @@ which should make using the library a pleasant experience.
 
 ## This doesn't really work
 
-<p style="text-align: center;" markdown="1">
-![So many pointers]({{ site.url }}/assets/no-pointers.jpg)
-</p>
-
 My first reaction was not great. Don't get me wrong, the library itself worked without any issues
 and I was able to write a Kafka producer and consumer in a decent amount of time (mostly due to
 Kafka's learning curve), but overall using _rdkafka++_ was slightly tedious. 
